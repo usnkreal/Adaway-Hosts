@@ -1,5 +1,14 @@
 #AdAway
 #Block adversing and tracking for some apps on Android
+0.0.0.0 taxi-promotions.s3.yandex.net
+0.0.0.0 mobile-metrica.cabconnect.org
+0.0.0.0 media-adv.market.yandex.ru
+0.0.0.0 go.integration.market.yandex.ru
+0.0.0.0 ezfweb-launches.appsflyersdk.com
+0.0.0.0 crashlytics.com
+0.0.0.0 care.yandex.ru
+0.0.0.0 app.adjust.io
+0.0.0.0 ads.taxiaid.org
 0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 egw.home-gateway.plus.yandex.net
 0.0.0.0 appsflyersdk.com
